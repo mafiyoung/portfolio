@@ -1,1 +1,0 @@
-email: receiving_email
